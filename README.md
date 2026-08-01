@@ -1,5 +1,5 @@
-> **⚠️ Public Showcase Notice**
-> This repository is a public showcase of the project. The production implementation remains private because it contains proprietary intellectual property and commercially sensitive components. This repository documents the system architecture, design decisions, technology stack, and project capabilities without exposing confidential implementation details.
+> **⚠️ Note**
+> This is not the main project repository — the actual codebase is private. This repo is here to document what was built: the architecture, features, design decisions, and tech stack.
 
 ---
 
