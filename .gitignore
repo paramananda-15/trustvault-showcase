@@ -1,0 +1,20 @@
+# Ignore OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore any accidental secrets
+.env
+.env.*
+*.pem
+*.key
+*.cert
+
+# This is a documentation-only repository.
+# No source code, build artifacts, or credentials should ever be committed here.
