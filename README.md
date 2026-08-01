@@ -11,7 +11,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.0--MVP-blue.svg)]()
 [![Status](https://img.shields.io/badge/status-Active%20Development-brightgreen.svg)]()
 [![Built With](https://img.shields.io/badge/Built%20With-Go%20%7C%20Python%20%7C%20Next.js-informational.svg)]()
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-August%202026-lightgrey.svg)]()
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-July%202026-lightgrey.svg)]()
 
 </div>
 
